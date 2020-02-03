@@ -4,7 +4,7 @@ TwyBoard - A Near Real-Time Twitter Discovery Platform build with AWS
 
 ## AWS Architecture
 
-![TwyBoard AWS Architecture](aws-architecture.png)
+![TwyBoard AWS Architecture](aws_architecture.png)
 
 This dashboard has the following architecture:
 
