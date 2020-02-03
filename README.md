@@ -4,6 +4,8 @@ TwyBoard - A Near Real-Time Twitter Discovery Platform build with AWS
 
 ## AWS Architecture
 
+![](aws-architecture.png)
+
 This dashboard has the following architecture:
 
 - A producer device (in this case, the Twitter feed) puts data into Amazon Kinesis Firehose.
